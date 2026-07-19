@@ -1,11 +1,13 @@
-# Log Analysis Selection
+# Python CAN Log Analyzer
 
-A Python application for automotive CAN log analysis.
+A desktop application developed in Python for automotive CAN log analysis.
 
 ## Features
-- Read log files
-- Analyze CAN data
-- Generate reports
+- Load CAN log files
+- Analyze and visualize CAN signals
+- PyQt5-based GUI
+- CAN log processing
+- Graph plotting
 
 ## Technologies Used
 - Python
@@ -13,3 +15,6 @@ A Python application for automotive CAN log analysis.
 - pyqtgraph
 - pandas
 - cantools
+
+## Author
+Madhavan Marasu
